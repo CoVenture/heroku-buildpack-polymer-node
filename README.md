@@ -1,1 +1,1 @@
-# Heroku Buildpack for a Polymer 2 project hosted with PHP
+# Heroku Buildpack for a Polymer 3 project
